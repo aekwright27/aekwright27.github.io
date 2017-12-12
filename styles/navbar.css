@@ -1,0 +1,21 @@
+.navbar-brand {
+	float: left;
+	font-size: 15px;
+}
+.nav-link { 
+	float: right; 
+	font-size: 15px;
+ }
+.navbar {
+	background-color: black;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 30px;
+}
+
+nav a:active {
+	color: purple;
+
+}

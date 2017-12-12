@@ -1,0 +1,24 @@
+.profilepic {
+	width: 100%;
+	height: auto;
+
+}
+.profile-bloc {
+   padding-left: 0px;
+   padding-right: 0px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+}
+
+body {
+	background-color:#C0C0C0;
+	background-image:url(../imgs/wood.jpeg);
+	background-size:cover;
+
+}
+h2 {
+	text-align: right;
+	font-size: 70px;
+	margin-top: 100px;
+	margin-right: 90px;
+}
